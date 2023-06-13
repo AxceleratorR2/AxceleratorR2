@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **My learning journey.**
 
-- 🌱 I’m currently learning **Vue, Bootstrap, PHP, MySQL**
+- 🌱 I’m currently learning **Vue and Bootstrap**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
